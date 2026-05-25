@@ -35,8 +35,12 @@ Farmers lose yield to **Early Blight** and **Late Blight**. This app helps ident
 
 
 ## Demo Video
+<h2>Demo Video</h2>
 
-[▶ Watch Demo Video](https://github.com/anand-tech-sys/potato-disease-classification/blob/16358d4b99806f221f443a9cf632523e9e9847fa/Demo.mp4)
+<video width="700" controls>
+  <source src="./Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Architecture
 
