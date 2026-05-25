@@ -33,7 +33,6 @@ Farmers lose yield to **Early Blight** and **Late Blight**. This app helps ident
 | **Mobile** | Camera / gallery → live prediction via cloud API |
 | **Stack** | Jupyter · FastAPI · TF Serving · GCP · React · React Native |
 
-## Demo Video
 
 <h2>🎬 Demo Video</h2>
 
