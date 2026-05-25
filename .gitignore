@@ -1,0 +1,41 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment & secrets
+.env
+.env.local
+*.keystore
+!mobile-app/android/app/debug.keystore
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Android / React Native builds
+mobile-app/android/app/build/
+mobile-app/android/.gradle/
+mobile-app/android/build/
+mobile-app/android/local.properties
+mobile-app/ios/Pods/
+*.jsbundle
+
+# Web build
+frontend/build/
+
+# Logs & temp
+gradle-build.log
+*.log
