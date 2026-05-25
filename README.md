@@ -33,12 +33,11 @@ Farmers lose yield to **Early Blight** and **Late Blight**. This app helps ident
 | **Mobile** | Camera / gallery → live prediction via cloud API |
 | **Stack** | Jupyter · FastAPI · TF Serving · GCP · React · React Native |
 
-<h2>Demo Video</h2>
+## Demo Video
 
-<video width="700" controls>
-  <source src="https://github.com/anand-tech-sys/potato-disease-classification/blob/ddedbb6346c04e13cc51527e2a2d09cf43f89ce1/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<a href="./Demo.mp4">
+  <img src="./demo-thumbnail.png" width="700" alt="Watch Demo Video">
+</a>
 
 ## Architecture
 
