@@ -34,7 +34,7 @@ Farmers lose yield to **Early Blight** and **Late Blight**. This app helps ident
 | **Stack** | Jupyter · FastAPI · TF Serving · GCP · React · React Native |
 
 ## Demo
-[Watch Demo Video](docs/demo.mp4)
+[Watch Demo Video](Demo.mp4)
 
 ## Architecture
 
