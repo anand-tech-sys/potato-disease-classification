@@ -35,9 +35,7 @@ Farmers lose yield to **Early Blight** and **Late Blight**. This app helps ident
 
 ## Demo Video
 
-<a href="./Demo.mp4">
-  <img src="./demo-thumbnail.png" width="700" alt="Watch Demo Video">
-</a>
+<img src="./demo.gif" width="800">
 
 ## Architecture
 
