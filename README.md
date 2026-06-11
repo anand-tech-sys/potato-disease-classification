@@ -132,7 +132,7 @@ docker run -t --rm -p 8501:8501 -v C:/Users/anand/OneDrive/Alliance University/m
 ```
 
 2. Run the FastAPI Server using uvicorn
-   For this you can directly run it from your main.py or main-tf-serving.py using pycharm run option (as shown in the video tutorial)
+   For this you can directly run it from your main.py or main-tf-serving.py using pycharm run option 
    OR you can run it from command prompt as shown below,
 
 ```bash
